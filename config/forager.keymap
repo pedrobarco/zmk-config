@@ -74,8 +74,8 @@
         };
 
         combo_esc {
-            bindings = <&lt 3 ESCAPE>;
-            key-positions = <30 33>;
+            bindings = <&kp ESCAPE>;
+            key-positions = <1 2>;
         };
     };
 
