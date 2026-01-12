@@ -74,13 +74,18 @@
         };
 
         combo_esc {
-            bindings = <&lt 3 ESCAPE>;
+            bindings = <&kp ESCAPE>;
             key-positions = <1 2>;
         };
 
         combo_bsp {
             bindings = <&kp BACKSPACE>;
             key-positions = <7 8>;
+        };
+
+        combo_tab {
+            bindings = <&kp TAB>;
+            key-positions = <22 21>;
         };
     };
 
