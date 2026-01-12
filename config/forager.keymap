@@ -80,7 +80,7 @@
 
         combo_bsp {
             bindings = <&kp BACKSPACE>;
-            key-positions = <6 7>;
+            key-positions = <7 8>;
         };
     };
 
