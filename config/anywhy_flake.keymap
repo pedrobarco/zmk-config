@@ -61,17 +61,17 @@
 
         combo_esc {
             bindings = <&kp ESCAPE>;
-            key-positions = <14 15>;
+            key-positions = <2 3>;
         };
 
         combo_bsp {
             bindings = <&kp BACKSPACE>;
-            key-positions = <20 21>;
+            key-positions = <8 9>;
         };
 
         combo_tab {
             bindings = <&kp TAB>;
-            key-positions = <38 39>;
+            key-positions = <26 27>;
         };
     };
 
